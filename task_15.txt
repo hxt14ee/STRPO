@@ -1,8 +1,0 @@
-
-git checkout -b pr/hexlet-report
-echo "< PR preparation >" >> index.html
-git add index.html
-git commit -m "docs: prepare changes for PR"
-git push -u origin pr/hexlet-report
-
-

@@ -1,9 +1,0 @@
-
-printf "No Code No Pain" >> hexlet.txt
-
-
-git diff
-
-git add hexlet.txt
-git commit -m "chore: update hexlet.txt (add slogan)"
-git log --oneline

@@ -1,3 +1,0 @@
-git log
-git log --oneline --graph --decorate --all
-git show HEAD~1

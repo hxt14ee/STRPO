@@ -1,6 +1,0 @@
-
-echo "temp change" >> hexlet.txt
-git restore hexlet.txt
-echo "one more change" >> hexlet.txt
-git add hexlet.txt
-git reset --hard HEAD
