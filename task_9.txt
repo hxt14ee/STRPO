@@ -1,0 +1,6 @@
+
+printf "<p>first part</p>\n" >> index.html
+printf "<p>second part</p>\n" >> index.html
+git add -p index.html
+git status
+git commit -m "stage and commit only selected hunks"

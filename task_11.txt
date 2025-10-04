@@ -1,0 +1,4 @@
+git log --oneline
+git show HEAD~1:hexlet.txt
+git checkout HEAD~1
+git checkout main

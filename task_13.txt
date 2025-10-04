@@ -1,0 +1,9 @@
+
+echo "<h1>temporary footer</h1>" >> index.html
+echo "Work in progress" >> quotes.txt
+git stash
+echo "New line for hexlet" >> hexlet.txt
+git add hexlet.txt
+git commit -m "update hexlet.txt only"
+git stash pop
+

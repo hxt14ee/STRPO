@@ -1,0 +1,6 @@
+git init
+echo "Hello, Hexlet! How are you?" > README.md
+git status
+git add README.md
+git commit -m "init: add README.md"
+git log --oneline

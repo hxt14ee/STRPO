@@ -1,0 +1,4 @@
+git log --oneline
+git checkout HEAD~1
+ls -la
+git checkout main
