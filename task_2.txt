@@ -1,0 +1,5 @@
+echo "Hexlet — практика важнее теории" > hexlet.txt
+git status
+git add hexlet.txt
+git commit -m "add hexlet.txt with text"
+git log --oneline

@@ -1,0 +1,7 @@
+git branch                
+git branch feature/header 
+git switch feature/header
+echo "<h1>Мама я коммичу</h1>" > index.html
+git add index.html
+git commit -m " add index.html "
+git switch main

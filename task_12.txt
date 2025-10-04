@@ -1,0 +1,5 @@
+echo "temporary info" > INFO.md
+echo "INFO.md" >> .gitignore
+git rm --cached INFO.md
+git add .gitignore
+git commit -m "ignore INFO.md and remove it from index"

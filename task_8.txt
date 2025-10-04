@@ -1,0 +1,4 @@
+
+echo "Quote of the day" > quotes.txt
+git add quotes.txt
+git commit --amend -m "add index.html and quotes.txt"
